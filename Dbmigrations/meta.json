@@ -1,0 +1,6 @@
+{
+  "name": "DB Migrations",
+  "description": "Manually execute database migrations",
+  "version": "1.0",
+  "author": "Sam Benge"
+}
